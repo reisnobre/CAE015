@@ -1,0 +1,173 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdftex 2017.6.15)  15 JUN 2017 10:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+! Undefined control sequence.
+l.2 \usepackage
+               [utf8]{inputenc}
+? 
+! Undefined control sequence.
+l.3 \usepackage
+               {import}
+? 
+! Undefined control sequence.
+l.4 \usepackage
+               {natbib}
+? 
+! Undefined control sequence.
+l.5 \usepackage
+               {graphicx}
+? 
+! Undefined control sequence.
+l.6 \usepackage
+               {verbatim}
+? 
+! Undefined control sequence.
+l.8 \usepackage
+               [T1]{fontenc}
+? 
+! Undefined control sequence.
+l.9 \usepackage
+               [portuguese]{babel}
+? 
+! Undefined control sequence.
+l.10 \usepackage
+                {hyphenat}
+? 
+! Not a letter.
+l.13 \hyphenation{mate-m√
+                         °tica recu-perar}
+? 
+! Not a letter.
+l.13 \hyphenation{mate-m√°
+                          tica recu-perar}
+? 
+! Undefined control sequence.
+l.14 \newenvironment
+                    {nscenter}
+? 
+! Undefined control sequence.
+l.15  {\parskip=0pt\par\nopagebreak
+                                   \centering}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.15  {\parskip=0pt\par\nopagebreak\centering}
+                                              
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.15  {\parskip=0pt\par\nopagebreak\centering}
+                                              
+? 
+! Undefined control sequence.
+l.16  {\par\noindent\ignorespacesafterend
+                                         }
+? 
+! Undefined control sequence.
+l.18 \begin
+           {document}
+? 
+! Undefined control sequence.
+l.20 \title
+           {Fundamentos da Economia \\ \normalsize Conceitos, Escassez e seu...
+
+? 
+! Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.20 ...a de Fronteira de Produ√ß√£o\vspace{30ex}}
+                                                  
+? 
+Runaway argument?
+ \normalsize Conceitos, Escassez e seus Problemas Fundamentais, Siste\ETC.
+! Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.20 ...a de Fronteira de Produ√ß√£o\vspace{30ex}}
+                                                  
+? 
+! Undefined control sequence.
+l.21 \author
+            {Eduardo Jos√© dos Reis Nobre Junior\\Ian Andrade Moreira\vspace...
+
+? 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+! Argument of \\ has an extra }.
+<inserted text> 
+                \par 
+<to be read again> 
+                   }
+l.21 ... Junior\\Ian Andrade Moreira\vspace{30ex}}
+                                                  
+? 
+Runaway argument?
+Ian Andrade Moreira\vspace {30ex}
+! Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+<to be read again> 
+                   }
+l.21 ... Junior\\Ian Andrade Moreira\vspace{30ex}}
+                                                  
+? 
+! Undefined control sequence.
+l.22 \date
+          {13 de Junho de 2017}
+? 
+! Undefined control sequence.
+l.23 \maketitle
+               
+? 
+! Undefined control sequence.
+l.24 \clearpage
+               
+? 
+! Undefined control sequence.
+l.26 \import
+            {./}{concepts.tex}
+? 
+! Undefined control sequence.
+l.27 \import
+            {./}{resources.tex}
+? 
+! Undefined control sequence.
+l.28 \import
+            {./}{systems.tex}
+? 
+! Undefined control sequence.
+l.29 \import
+            {./}{ppf.tex}
+? 
+! Undefined control sequence.
+l.30 \bibliographystyle
+                       {plain}
+? 
+! Undefined control sequence.
+l.31 \bibliography
+                  {Referencias bibliogr√°ficas}
+? 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+! Undefined control sequence.
+l.32 \listoffigures
+                   {Lista de Figuras}
+? 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] )</usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on main.pdf (1 page, 18137 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

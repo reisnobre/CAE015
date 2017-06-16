@@ -1,0 +1,32 @@
+\usepackage[utf8]{inputenc}
+\usepackage{import}
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{verbatim}
+
+\usepackage[T1]{fontenc}
+\usepackage[portuguese]{babel}
+\usepackage{hyphenat}
+
+
+\hyphenation{mate-mática recu-perar}
+\newenvironment{nscenter}
+ {\parskip=0pt\par\nopagebreak\centering}
+ {\par\noindent\ignorespacesafterend}
+
+\begin{document}
+\topskip0pt
+\title{Fundamentos da Economia \\ \normalsize Conceitos, Escassez e seus Problemas Fundamentais, Sistemas Econômicos, Curva de Fronteira de Produção\vspace{30ex}}
+\author{Eduardo José dos Reis Nobre Junior\\Ian Andrade Moreira\vspace{30ex}}
+\date{13 de Junho de 2017}
+\maketitle
+\clearpage
+
+\import{./}{concepts.tex}
+\import{./}{resources.tex}
+\import{./}{systems.tex}
+\import{./}{ppf.tex}
+\bibliographystyle{plain}
+\bibliography{Referencias bibliográficas}
+\listoffigures{Lista de Figuras}
+\end{document}
