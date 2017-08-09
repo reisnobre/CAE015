@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.15)  15 JUN 2017 16:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.6.15)  8 AUG 2017 10:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
-(/home/reisnobre/uesc/econ/test-field/main.tex
+(/home/reisnobre/uesc/tex/econ/test-field/main.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -340,7 +340,7 @@ Now handling font encoding U ...
    defining Unicode char U+2423 (decimal 9251)
 )) (/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
 Package: import 2009/03/23  v 5.1
-) (/home/reisnobre/uesc/econ/test-field/main.aux)
+) (/home/reisnobre/uesc/tex/econ/test-field/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -361,29 +361,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 10.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/reisnobre/uesc/econ/test-field/part-one.tex) (/home/reisnobre/uesc/econ/test-field/part-two.tex)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 15.
- [1
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/reisnobre/uesc/tex/econ/test-field/main.toc)
+\tf@toc=\write3
+\openout3 = `main.toc'.
 
-] (/home/reisnobre/uesc/econ/test-field/main.aux) ) 
+ (/home/reisnobre/uesc/tex/econ/test-field/part-one.tex) (/home/reisnobre/uesc/tex/econ/test-field/part-two.tex) [1
+
+] (/home/reisnobre/uesc/tex/econ/test-field/main.aux) ) 
 Here is how much of TeX's memory you used:
- 1000 strings out of 493029
- 11374 string characters out of 6136234
- 69592 words of memory out of 5000000
- 4569 multiletter control sequences out of 15000+600000
- 8893 words of font info for 31 fonts, out of 8000000 for 9000
+ 982 strings out of 493029
+ 11315 string characters out of 6136234
+ 69591 words of memory out of 5000000
+ 4556 multiletter control sequences out of 15000+600000
+ 6063 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,7n,24p,505b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on /home/reisnobre/uesc/econ/test-field/main.pdf (2 pages, 57414 bytes).
+ 23i,7n,24p,489b,195s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on /home/reisnobre/uesc/tex/econ/test-field/main.pdf (2 pages, 37326 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 23 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
